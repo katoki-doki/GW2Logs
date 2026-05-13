@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260512-154936-hi8t",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-13T01:49:36.000Z",
+      "dateEnd": "2026-05-13T03:04:13.000Z",
+      "dateLabel": "5/12/2026, 3:49:36 PM - 5/12/2026, 5:04:13 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260512-154936-hi8t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 38
+      }
+    }
+  ]
+}
