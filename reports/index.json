@@ -1,25 +1,58 @@
-[
-  {
-    "id": "20260512-154936-9vo6",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-05-13T01:49:36.000Z",
-    "dateEnd": "2026-05-13T03:04:13.000Z",
-    "dateLabel": "5/12/2026, 3:49:36 PM - 5/12/2026, 5:04:13 PM",
-    "url": "https://katoki-doki.github.io/GW2Logs/?report=20260512-154936-9vo6",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 22,
-          "color": "#64748b"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260513-151147-oukj",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 38
+      "dateStart": "2026-05-14T01:11:47.000Z",
+      "dateEnd": "2026-05-14T01:44:54.000Z",
+      "dateLabel": "5/13/2026, 3:11:47 PM - 5/13/2026, 3:44:54 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260513-151147-oukj",
+      "summary": {
+        "borderlandsPct": 0.2894736842105263,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260512-154936-9vo6",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-05-13T01:49:36.000Z",
+      "dateEnd": "2026-05-13T03:04:13.000Z",
+      "dateLabel": "5/12/2026, 3:49:36 PM - 5/12/2026, 5:04:13 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260512-154936-9vo6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 38
+      }
     }
-  }
-]
+  ]
+}
