@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-151059-iaa5",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "dateStart": "2026-05-17T01:10:59.000Z",
+      "dateEnd": "2026-05-17T02:01:40.000Z",
+      "dateLabel": "5/16/2026, 3:10:59 PM - 5/16/2026, 4:01:40 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260516-151059-iaa5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260516-151059-pjcn",
       "title": "Ebt Baby",
       "commanders": [
