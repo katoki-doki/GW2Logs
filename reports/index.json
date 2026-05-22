@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260521-150129-7508",
+      "title": "Jokajo",
+      "commanders": [
+        "Jokajo"
+      ],
+      "dateStart": "2026-05-22T01:01:29.000Z",
+      "dateEnd": "2026-05-22T01:20:59.000Z",
+      "dateLabel": "5/21/2026, 3:01:29 PM - 5/21/2026, 3:20:59 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260521-150129-7508",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260520-163349-b2k2",
       "title": "Get On Me",
       "commanders": [
