@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-161702-zofw",
+      "title": "Jokajo",
+      "commanders": [
+        "Jokajo"
+      ],
+      "dateStart": "2026-05-23T02:17:02.000Z",
+      "dateEnd": "2026-05-23T02:52:33.000Z",
+      "dateLabel": "5/22/2026, 4:17:02 PM - 5/22/2026, 4:52:33 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260522-161702-zofw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 41,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260521-150129-7508",
       "title": "Jokajo",
       "commanders": [
