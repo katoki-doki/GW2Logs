@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260524-155536-m5tv",
+      "title": "Ebt Baby, Get On Me, Illusive Heart",
+      "commanders": [
+        "Ebt Baby",
+        "Get On Me",
+        "Illusive Heart"
+      ],
+      "dateStart": "2026-05-25T01:55:36.000Z",
+      "dateEnd": "2026-05-25T03:01:01.000Z",
+      "dateLabel": "5/24/2026, 3:55:36 PM - 5/24/2026, 5:01:01 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260524-155536-m5tv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260524-151116-ix3k",
       "title": "Ebt Baby",
       "commanders": [
