@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-151804-12u9",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-26T01:18:04.000Z",
+      "dateEnd": "2026-05-26T01:39:00.000Z",
+      "dateLabel": "5/25/2026, 3:18:04 PM - 5/25/2026, 3:39:00 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260525-151804-12u9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260524-155536-m5tv",
       "title": "Ebt Baby, Get On Me, Illusive Heart",
       "commanders": [
