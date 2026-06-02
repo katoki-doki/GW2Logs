@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-161313-fkb7",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-02T02:13:13.000Z",
+      "dateEnd": "2026-06-02T03:02:05.000Z",
+      "dateLabel": "6/1/2026, 4:13:13 PM - 6/1/2026, 5:02:05 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260601-161313-fkb7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260531-161610-el66",
       "title": "Get On Me",
       "commanders": [
