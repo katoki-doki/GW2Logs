@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-163937-96v7",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-07T02:39:37.000Z",
+      "dateEnd": "2026-06-07T03:04:07.000Z",
+      "dateLabel": "6/6/2026, 4:39:37 PM - 6/6/2026, 5:04:07 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260606-163937-96v7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260602-163018-71hr",
       "title": "Illusive Heart",
       "commanders": [
