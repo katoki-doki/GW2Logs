@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260610-161531-v76u",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-11T02:15:31.000Z",
+      "dateEnd": "2026-06-11T03:04:37.000Z",
+      "dateLabel": "6/10/2026, 4:15:31 PM - 6/10/2026, 5:04:37 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260610-161531-v76u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260610-151655-t54n",
       "title": "Ebt Baby, Jokajo",
       "commanders": [
