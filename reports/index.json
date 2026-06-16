@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-154359-4urn",
+      "title": "Ebt Baby, Jokajo",
+      "commanders": [
+        "Ebt Baby",
+        "Jokajo"
+      ],
+      "dateStart": "2026-06-16T01:43:59.000Z",
+      "dateEnd": "2026-06-16T02:31:20.000Z",
+      "dateLabel": "6/15/2026, 3:43:59 PM - 6/15/2026, 4:31:20 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260615-154359-4urn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260615-151331-qct0",
       "title": "Ebt Baby",
       "commanders": [
