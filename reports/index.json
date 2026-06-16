@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-151331-qct0",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "dateStart": "2026-06-16T01:13:31.000Z",
+      "dateEnd": "2026-06-16T01:36:02.000Z",
+      "dateLabel": "6/15/2026, 3:13:31 PM - 6/15/2026, 3:36:02 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260615-151331-qct0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260613-151158-209t",
       "title": "Get On Me",
       "commanders": [
