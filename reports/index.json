@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-150627-rjyp",
+      "title": "Get On Me, Illusive Heart",
+      "commanders": [
+        "Get On Me",
+        "Illusive Heart"
+      ],
+      "dateStart": "2026-06-25T01:06:27.000Z",
+      "dateEnd": "2026-06-25T01:34:07.000Z",
+      "dateLabel": "6/24/2026, 3:06:27 PM - 6/24/2026, 3:34:07 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260624-150627-rjyp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260623-151028-ab6z",
       "title": "Get On Me",
       "commanders": [
