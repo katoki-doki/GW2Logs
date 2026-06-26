@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260625-150225-s28s",
+      "title": "Eternalsrs",
+      "commanders": [
+        "Eternalsrs"
+      ],
+      "dateStart": "2026-06-26T01:02:25.000Z",
+      "dateEnd": "2026-06-26T01:48:31.000Z",
+      "dateLabel": "6/25/2026, 3:02:25 PM - 6/25/2026, 3:48:31 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260625-150225-s28s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260624-150627-rjyp",
       "title": "Get On Me, Illusive Heart",
       "commanders": [
