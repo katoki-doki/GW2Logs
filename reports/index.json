@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-150501-r1n0",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-28T01:05:01.000Z",
+      "dateEnd": "2026-06-28T01:42:00.000Z",
+      "dateLabel": "6/27/2026, 3:05:01 PM - 6/27/2026, 3:42:00 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260627-150501-r1n0",
+      "summary": {
+        "borderlandsPct": 0.2619047619047619,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 31,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260625-150225-s28s",
       "title": "Eternalsrs",
       "commanders": [
