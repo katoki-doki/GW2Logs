@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-151128-m2kz",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-06-29T01:11:28.000Z",
+      "dateEnd": "2026-06-29T01:46:15.000Z",
+      "dateLabel": "6/28/2026, 3:11:28 PM - 6/28/2026, 3:46:15 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260628-151128-m2kz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260627-150501-r1n0",
       "title": "Get On Me",
       "commanders": [
