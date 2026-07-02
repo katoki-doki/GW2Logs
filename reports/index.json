@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-143550-d9f0",
+      "title": "Link Does Damage",
+      "commanders": [
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-07-02T00:35:50.000Z",
+      "dateEnd": "2026-07-02T01:26:13.000Z",
+      "dateLabel": "7/1/2026, 2:35:50 PM - 7/1/2026, 3:26:13 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260701-143550-d9f0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 45,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260630-153553-dtgb",
       "title": "Get On Me",
       "commanders": [
