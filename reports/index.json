@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-122437-7vf6",
+      "title": "Clairvoyant Link, Sótha Sil",
+      "commanders": [
+        "Clairvoyant Link",
+        "Sótha Sil"
+      ],
+      "dateStart": "2026-07-04T22:24:37.000Z",
+      "dateEnd": "2026-07-05T01:33:55.000Z",
+      "dateLabel": "7/4/2026, 12:24:37 PM - 7/4/2026, 3:33:55 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260704-122437-7vf6",
+      "summary": {
+        "borderlandsPct": 0.9672131147540983,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 59,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260701-143550-d9f0",
       "title": "Link Does Damage",
       "commanders": [
