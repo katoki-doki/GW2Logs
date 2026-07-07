@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-150336-w2cf",
+      "title": "Atros Sandveil",
+      "commanders": [
+        "Atros Sandveil"
+      ],
+      "dateStart": "2026-07-07T01:03:36.000Z",
+      "dateEnd": "2026-07-07T01:47:59.000Z",
+      "dateLabel": "7/6/2026, 3:03:36 PM - 7/6/2026, 3:47:59 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260706-150336-w2cf",
+      "summary": {
+        "borderlandsPct": 0.95,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 29,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260705-163449-cbwq",
       "title": "Get On Me",
       "commanders": [
