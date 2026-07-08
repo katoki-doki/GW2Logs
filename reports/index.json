@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-150804-81dl",
+      "title": "Get On Me, Umizobi",
+      "commanders": [
+        "Get On Me",
+        "Umizobi"
+      ],
+      "dateStart": "2026-07-08T01:08:04.000Z",
+      "dateEnd": "2026-07-08T01:46:21.000Z",
+      "dateLabel": "7/7/2026, 3:08:04 PM - 7/7/2026, 3:46:21 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260707-150804-81dl",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260706-150336-w2cf",
       "title": "Atros Sandveil",
       "commanders": [
