@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260709-164216-da1o",
+      "title": "Get On Me, Illusive Heart",
+      "commanders": [
+        "Get On Me",
+        "Illusive Heart"
+      ],
+      "dateStart": "2026-07-10T02:42:16.000Z",
+      "dateEnd": "2026-07-10T03:24:46.000Z",
+      "dateLabel": "7/9/2026, 4:42:16 PM - 7/9/2026, 5:24:46 PM",
+      "url": "https://katoki-doki.github.io/GW2Logs/?report=20260709-164216-da1o",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260709-152055-koj7",
       "title": "Get On Me",
       "commanders": [
